@@ -1,7 +1,8 @@
 ##主程序
 AppDelegate.m文件中调用和打印1-100：
 ```FizzBuzz* fizzBuzz = [[FizzBuzz alloc]initWithFirstNum:3 withSecondNum:5];
-    [fizzBuzz print1to100];```
+    [fizzBuzz print1to100];
+```
     
     
 ##实现
